@@ -1,0 +1,4 @@
+un admin
+pwd admin
+browser Edge
+url http://localhost:8888/

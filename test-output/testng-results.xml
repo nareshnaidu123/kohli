@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-02T14:50:12 IST" name="Default suite" finished-at="2024-05-02T14:51:05 IST" duration-ms="52791">
+    <groups>
+    </groups>
+    <test started-at="2024-05-02T14:50:12 IST" name="Default test" finished-at="2024-05-02T14:51:05 IST" duration-ms="52791">
+      <class name="actualtestpage.CretaeNewOrganizationPage">
+        <test-method is-config="true" signature="beforeSuiteConfig()[pri:0, instance:actualtestpage.CretaeNewOrganizationPage@4550bb58]" started-at="2024-05-02T14:50:12 IST" name="beforeSuiteConfig" finished-at="2024-05-02T14:50:12 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteConfig -->
+        <test-method is-config="true" signature="beforeClassConfig()[pri:0, instance:actualtestpage.CretaeNewOrganizationPage@4550bb58]" started-at="2024-05-02T14:50:12 IST" name="beforeClassConfig" finished-at="2024-05-02T14:50:21 IST" duration-ms="9449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfig -->
+        <test-method is-config="true" signature="beforeMethodConfig()[pri:0, instance:actualtestpage.CretaeNewOrganizationPage@4550bb58]" started-at="2024-05-02T14:50:22 IST" name="beforeMethodConfig" finished-at="2024-05-02T14:50:32 IST" duration-ms="10428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfig -->
+        <test-method signature="createorg()[pri:0, instance:actualtestpage.CretaeNewOrganizationPage@4550bb58]" started-at="2024-05-02T14:50:32 IST" name="createorg" finished-at="2024-05-02T14:51:03 IST" duration-ms="30923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createorg -->
+        <test-method is-config="true" signature="afterMethodConfig()[pri:0, instance:actualtestpage.CretaeNewOrganizationPage@4550bb58]" started-at="2024-05-02T14:51:03 IST" name="afterMethodConfig" finished-at="2024-05-02T14:51:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfig -->
+        <test-method is-config="true" signature="afterClassConfig()[pri:0, instance:actualtestpage.CretaeNewOrganizationPage@4550bb58]" started-at="2024-05-02T14:51:03 IST" name="afterClassConfig" finished-at="2024-05-02T14:51:05 IST" duration-ms="1904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassConfig -->
+        <test-method is-config="true" signature="afterSuiteConfig()[pri:0, instance:actualtestpage.CretaeNewOrganizationPage@4550bb58]" started-at="2024-05-02T14:51:05 IST" name="afterSuiteConfig" finished-at="2024-05-02T14:51:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteConfig -->
+      </class> <!-- actualtestpage.CretaeNewOrganizationPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
